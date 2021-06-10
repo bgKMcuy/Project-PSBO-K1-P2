@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dosen"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="0dp"
+        android:background="#007fba">
+
+        <ImageView
+            android:id="@+id/profile_image"
+            android:layout_width="84dp"
+            android:layout_height="50dp"
+            android:src="@drawable/lambangipb"
+            android:layout_centerVertical="true"/>
+
+
+        <TextView
+            android:id="@+id/full_name"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Dosen IPB"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            to android:layout_toRightOf="@+id/profile_image"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="199001012015011000"
+            android:textColor="#fff"
+            android:textSize="14sp"
+            to android:layout_toRightOf="@+id/profile_image"
+            android:layout_below="@id/full_name"
+            android:layout_marginLeft="10dp"/>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_heigth="wrap_content"
+        android:padding="20dp"
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="370dp"
+        android:layout_height="60dp"
+        android:layout_weight="0"
+        app:cardBackgroundColor="#FFF"
+        app:cardElevation="80dp"
+        android:layout_margin="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+        <View
+            android:id="@+id/rectangle_1"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="8dp"
+            android:background="#dddddd"/>
+
+        <View
+            android:id="@+id/rectangle_2"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="8dp"
+            android:background="#dddddd"/>
+
+        <View
+            android:id="@+id/rectangle_3"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="135dp"
+            android:layout_marginTop="8dp"
+            android:background="#007BB4"/>
+
+        <View
+            android:id="@+id/rectangle_4"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="195dp"
+            android:layout_marginTop="8dp"
+            android:background="#dddddd"/>
+
+        <View
+            android:id="@+id/rectangle_5"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="255dp"
+            android:layout_marginTop="8dp"
+            android:background="#dddddd"/>
+
+        <View
+            android:id="@+id/rectangle_6"
+            android:layout_width="42dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="315dp"
+            android:layout_marginTop="8dp"
+            android:background="#dddddd"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:text="3"
+            android:textColor="#000"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="10dp"
+            android:text="Rab"
+            android:textColor="#000"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="20dp"
+            android:text="4"
+            android:textColor="#000"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="86dp"
+            android:layout_marginTop="10dp"
+            android:text="Kam"
+            android:textColor="#000"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="20dp"
+            android:text="5"
+            android:textColor="#fff"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="146dp"
+            android:layout_marginTop="10dp"
+            android:text="Jum"
+            android:textColor="#fff"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="210dp"
+            android:layout_marginTop="20dp"
+            android:text="6"
+            android:textColor="#000"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="206dp"
+            android:layout_marginTop="10dp"
+            android:text="Sab"
+            android:textColor="#000"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="270dp"
+            android:layout_marginTop="20dp"
+            android:text="7"
+            android:textColor="#000"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="266dp"
+            android:layout_marginTop="10dp"
+            android:text="Min"
+            android:textColor="#000"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="10dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="330dp"
+            android:layout_marginTop="20dp"
+            android:text="8"
+            android:textColor="#000"
+            android:textSize="19sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="326dp"
+            android:layout_marginTop="10dp"
+            android:text="Sen"
+            android:textColor="#000"
+            android:textSize="10sp"
+            to android:layout_toRightOf="@+id/date_picker_actions"
+            android:layout_centerVertical="true"/>
+
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/full_name"
+        android:rowCount="3"
+        android:columnCount="2">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="4dp"
+            app:cardElevation="88dp">
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="40dp"
+                android:layout_height="15dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="310dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="15dp"
+                android:textSize="12sp"
+                android:text="Kuliah"
+                android:gravity="top"/>
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="100dp"
+                android:layout_height="18dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="15dp"
+                android:textColor="#222"
+                android:textSize="15sp"
+                android:text="Jadwal Kuliah"
+                android:gravity="top"/>
+
+            <View
+                android:id="@+id/rectangle_10"
+                android:layout_width="330dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="#ddfcfc">
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="40dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="50dp"
+                android:text="10:00"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="40dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="120dp"
+                android:text="11:40"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/ellipse_1"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="55dp"
+                android:background="#8FC4E1"/>
+
+            <View
+                android:id="@+id/rectangle_1"
+                android:layout_width="1dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="95dp"
+                android:layout_marginTop="72dp"
+                android:background="#0E6696"/>
+
+            <View
+                android:id="@+id/ellipse_1"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="125dp"
+                android:background="#0E6696"/>
+
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="50dp"
+                android:text="Kecerdasan Buatan"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="70dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="75dp"
+                android:text="KOM321 | K2"
+                android:textColor="#000"
+                android:textSize="11sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="35dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="95dp"
+                android:text="Daring"
+                android:textColor="#999"
+                android:textSize="11sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/rectangle_1"
+                android:layout_width="50dp"
+                android:layout_height="18dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="110dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="122dp"
+                android:background="#0E6696" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="120dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="123dp"
+                android:textSize="11sp"
+                android:text="Kuliah"
+                android:textColor="#fff"
+                android:gravity="top"/>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="82dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="255dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="100dp"
+                android:text="Join Room"
+                android:textColor="#FFFFFF"
+                android:background="#C9E4ED" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="270dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="103dp"
+                android:textSize="10sp"
+                android:text="Join Room"
+                android:gravity="top"/>
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="82dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="255dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="130dp"
+                android:text="Isi Presensi"
+                android:textColor="#FFFFFF"
+                android:background="#C9E4ED" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="270dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="133dp"
+                android:textSize="10sp"
+                android:text="Isi Presensi"
+                android:gravity="top"/>
+
+            <View
+                android:id="@+id/rectangle_10"
+                android:layout_width="330dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="180dp"
+                android:background="#ddfcf1">
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="40dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="190dp"
+                android:text="13:30"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="40dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="260dp"
+                android:text="15:30"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/ellipse_1"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="195dp"
+                android:background="#95E8E0"/>
+
+            <View
+                android:id="@+id/rectangle_1"
+                android:layout_width="1dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="95dp"
+                android:layout_marginTop="212dp"
+                android:background="#2AA499"/>
+
+            <View
+                android:id="@+id/ellipse_1"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="265dp"
+                android:background="#2AA499"/>
+
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="190dp"
+                android:text="Kecerdasan Buatan"
+                android:textColor="#000"
+                android:textSize="15sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="70dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="215dp"
+                android:text="KOM321 | P2"
+                android:textColor="#000"
+                android:textSize="11sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <TextView
+                android:id="@+id/some_id"
+                android:layout_width="35dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="235dp"
+                android:text="Daring"
+                android:textColor="#999"
+                android:textSize="11sp"
+                to android:layout_toRightOf="@+id/some_id"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/rectangle_1"
+                android:layout_width="65dp"
+                android:layout_height="18dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="110dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="262dp"
+                android:background="#2AA499" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="120dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="263dp"
+                android:textSize="11sp"
+                android:text="Praktikum"
+                android:textColor="#fff"
+                android:gravity="top"/>
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="82dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="255dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="240dp"
+                android:text="Join Room"
+                android:textSize="10sp"
+                android:textColor="#FFFFFF"
+                android:background="#C9EDE4" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="270dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="243dp"
+                android:textSize="10sp"
+                android:text="Join Room"
+                android:gravity="top"/>
+
+            <Button
+                android:id="@+id/rectangle_1"
+                android:layout_width="82dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="255dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="270dp"
+                android:text="Isi Presensi"
+                android:textColor="#FFFFFF"
+                android:background="#C9EDE4" />
+
+            <TextView
+                android:id="@+id/join_room"
+                android:layout_width="50dp"
+                android:layout_height="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="270dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="273dp"
+                android:textSize="10sp"
+                android:text="Isi Presensi"
+                android:gravity="top"/>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </GridLayout>
+
+</LinearLayout>
+
+    </LinearLayout>
