@@ -56,11 +56,14 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
       Fathan Mubina Sarjoko
     </td>
     <td>
+      Front end Developer
+    </td>
+  </tr>
     
 </table>
 
 ## Tech Stack
-  
+  Android Studio
   
 ## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
