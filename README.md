@@ -64,6 +64,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 
 ## Tech Stack
   ### Android Studio
+  https://github.com/bgKMcuy/Project-PSBO-K1-P2/issues/1#issue-921256159
   Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android.
   
 ## Ilustrasi Aplikasi
