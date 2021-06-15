@@ -66,7 +66,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
   ### Android Studio
   ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
 
-  Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android.
+  Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
   
 ## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
