@@ -46,7 +46,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
       Karyadi Mochtar
     </td>
     <td>
-      ...
+      Full Stack Dev.
   </tr>
   <tr>
     <td>
