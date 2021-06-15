@@ -56,17 +56,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
       Fathan Mubina Sarjoko
     </td>
     <td>
-      ...
-    </tr>
-    <tr>
-      <td>
-      G64180114
-    </td>
-    <td>
-    	Fikri Ibrahim Ahid
-    </td>
-    <td>
-      ...
+    
 </table>
 
 ## Tech Stack
