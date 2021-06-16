@@ -18,8 +18,15 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
 Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i IPB dalam menyelesaikan masalah dalam hal ini malas untuk mencari link perkuliahan/praktikum ataupun tidak bisa menemukan link tersebut. Sebab hal tersebut sedikit membuat semangat menjadi berkurang untuk menghadiri perkuliahan/praktikum. Ini berdasarkan pengalaman yang kami rasakan dan para narasumber yang pernah kami survei sebelumnya. Kedua adalah mengurangi adanya alibi mahasiswa/i yang tidak bisa menghadiri perkuliahan/praktikum yang disebabkan karena susah atau tidak bisa menemukan link tersebut. Tidak banyak dari mereka menggunakan alibi tersebut sebagai bentuk pembelaan.
 
 ## Software
+- Text Editor : Android Studio
+- Operating System : Windows 10 Home 64-bit
+- Design Tools and Prototyping : Figma
+- Management Tools : Github dan Google Meet
 
 ## Hardware
+- CPU : Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz   1.99 GHz
+- GPU : AMD Radeon 530 Series 2GB
+- RAM : 8GB
 
 ## Tech Stack
   ### Android Studio
