@@ -17,6 +17,27 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
 ## Dampak
 Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i IPB dalam menyelesaikan masalah dalam hal ini malas untuk mencari link perkuliahan/praktikum ataupun tidak bisa menemukan link tersebut. Sebab hal tersebut sedikit membuat semangat menjadi berkurang untuk menghadiri perkuliahan/praktikum. Ini berdasarkan pengalaman yang kami rasakan dan para narasumber yang pernah kami survei sebelumnya. Kedua adalah mengurangi adanya alibi mahasiswa/i yang tidak bisa menghadiri perkuliahan/praktikum yang disebabkan karena susah atau tidak bisa menemukan link tersebut. Tidak banyak dari mereka menggunakan alibi tersebut sebagai bentuk pembelaan.
 
+
+
+## Tech Stack
+  ### Android Studio
+  ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
+
+  Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
+  
+## Ilustrasi Aplikasi
+<img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
+<img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
+
+## Link Pendukung 
+### Figma
+ https://www.figma.com/file/PpQgL8Uk3R1dXLKE2wcTcY/PSBO?node-id=7%3A2
+  
+### Trello
+ https://trello.com/kelompok1psboparalel2genap20202021
+
+## Saran
+
 ## Developer
 <table>
   <th>
@@ -61,21 +82,3 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
   </tr>
     
 </table>
-
-## Tech Stack
-  ### Android Studio
-  ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
-
-  Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
-  
-## Ilustrasi Aplikasi
-<img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
-<img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
-
-## Link Pendukung 
-### Figma
- https://www.figma.com/file/PpQgL8Uk3R1dXLKE2wcTcY/PSBO?node-id=7%3A2
-  
-### Trello
- https://trello.com/kelompok1psboparalel2genap20202021
- 
