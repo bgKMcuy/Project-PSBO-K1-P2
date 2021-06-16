@@ -24,7 +24,23 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
   ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
 
   Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
-  
+
+## Hasil dan Pembahasan
+### Use Case Diagram
+
+### Activity Diagram
+
+### Class Diagram
+
+### ERD
+
+### Arsitektur Sistem
+
+### Fungsi utama yang Dikembangkan
+Fungsi utama yang ingin kita kembangkan yaitu membuat fitur baru berupa tombol join untuk langsung masuk kedalam video conference kuliah/praktikum sesuai dengan jadwal yang dimiliki oleh mahasiswa atau dosen.
+
+## Fungsi CRUD
+
 ## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
 <img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
@@ -35,6 +51,8 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
   
 ### Trello
  https://trello.com/kelompok1psboparalel2genap20202021
+
+### Aplikasi
 
 ## Saran
 
