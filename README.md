@@ -42,6 +42,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ### Use Case Diagram
 
 ### Activity Diagram
+![image](https://user-images.githubusercontent.com/60084283/122158566-199c7680-ce97-11eb-8789-1dd06da421d6.png)
 
 ### Class Diagram
 
