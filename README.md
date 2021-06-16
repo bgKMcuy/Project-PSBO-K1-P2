@@ -53,7 +53,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ![image](https://user-images.githubusercontent.com/60084283/122160802-c3c9cd80-ce9a-11eb-9268-88c2ee0aad05.png)
 
 ### Arsitektur Sistem
-![ARSIT](https://user-images.githubusercontent.com/60084283/122161786-88c89980-ce9c-11eb-9ffc-4dbe68ef0d4b.png)
+![arsitektur (2)](https://user-images.githubusercontent.com/60084283/122171228-b0722e80-cea9-11eb-867b-431ef0c5731b.png)
 
 
 ### Fungsi utama yang Dikembangkan
