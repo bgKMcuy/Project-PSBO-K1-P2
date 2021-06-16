@@ -51,6 +51,8 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ![image](https://user-images.githubusercontent.com/60084283/122160802-c3c9cd80-ce9a-11eb-9268-88c2ee0aad05.png)
 
 ### Arsitektur Sistem
+![ARSIT](https://user-images.githubusercontent.com/60084283/122161786-88c89980-ce9c-11eb-9ffc-4dbe68ef0d4b.png)
+
 
 ### Fungsi utama yang Dikembangkan
 Fungsi utama yang ingin kita kembangkan yaitu membuat fitur baru berupa tombol join untuk langsung masuk kedalam video conference kuliah/praktikum sesuai dengan jadwal yang dimiliki oleh mahasiswa atau dosen.
