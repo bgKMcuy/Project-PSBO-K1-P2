@@ -31,10 +31,12 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ## Tech Stack
   ### Android Studio
   ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
+
+Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
   ### PostMan
   ![post (1)](https://user-images.githubusercontent.com/60084283/122171513-ff1fc880-cea9-11eb-992c-03f449b1d890.png)
 
-  Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
+Postman merupakan nama dari sebuah tools yang dapat membantu seorang developer yang berfungsi untuk melakukan testing API (Application Programming Interface). Postman sendiri dapat digunakan secara individu atau berkelompok (team), dapat juga digunakan secara gratis ataupun berbayar. Postman juga dapat berfungsi untuk mengumpulkan API yang dapat digunakan untuk membuat sebuah dokumentasi utuh satu projek tertentu. Jika API dari sebuah aplikasi dibuat secara keseluruhan dengan cara memanfaatkan Postman, maka aplikasi tersebut akan lebih mudah dalam proses pengembangan projek, karena tentunya setiap developer bisa memiliki acuan yang jelas untuk penggunaan setiap API. 
 
 ## Konsep OOP yang Dipakai
 
