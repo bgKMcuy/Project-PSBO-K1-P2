@@ -17,13 +17,19 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
 ## Dampak
 Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i IPB dalam menyelesaikan masalah dalam hal ini malas untuk mencari link perkuliahan/praktikum ataupun tidak bisa menemukan link tersebut. Sebab hal tersebut sedikit membuat semangat menjadi berkurang untuk menghadiri perkuliahan/praktikum. Ini berdasarkan pengalaman yang kami rasakan dan para narasumber yang pernah kami survei sebelumnya. Kedua adalah mengurangi adanya alibi mahasiswa/i yang tidak bisa menghadiri perkuliahan/praktikum yang disebabkan karena susah atau tidak bisa menemukan link tersebut. Tidak banyak dari mereka menggunakan alibi tersebut sebagai bentuk pembelaan.
 
+## Software
 
+## Hardware
 
 ## Tech Stack
   ### Android Studio
   ![Android-Studios](https://user-images.githubusercontent.com/60334082/122038960-5cf7d600-ce00-11eb-8899-2279346ce084.jpg)
 
   Android Studio adalah Integrated Development Environment (IDE) resmi untuk mengembangkan aplikasi berbasis Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang handal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti sistem build yang fleksibel, emulator yang banyak fitur dan juga cepat, framework lengkap, dan lain sebagainya.
+
+## Konsep OOP yang Dipakai
+
+## Tipe Desain Pengembangan
 
 ## Hasil dan Pembahasan
 ### Use Case Diagram
@@ -39,7 +45,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ### Fungsi utama yang Dikembangkan
 Fungsi utama yang ingin kita kembangkan yaitu membuat fitur baru berupa tombol join untuk langsung masuk kedalam video conference kuliah/praktikum sesuai dengan jadwal yang dimiliki oleh mahasiswa atau dosen.
 
-## Fungsi CRUD
+### Fungsi CRUD
 
 ## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
