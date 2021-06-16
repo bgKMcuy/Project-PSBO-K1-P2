@@ -47,7 +47,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ![image](https://user-images.githubusercontent.com/60084283/122158566-199c7680-ce97-11eb-8789-1dd06da421d6.png)
 
 ### Class Diagram
-![image](https://user-images.githubusercontent.com/60084283/122160802-c3c9cd80-ce9a-11eb-9268-88c2ee0aad05.png)
+![Class](https://user-images.githubusercontent.com/60084283/122171042-7b65dc00-cea9-11eb-947d-73d81a46c0bb.png)
 
 ### ERD
 ![image](https://user-images.githubusercontent.com/60084283/122160802-c3c9cd80-ce9a-11eb-9268-88c2ee0aad05.png)
