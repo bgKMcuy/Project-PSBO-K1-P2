@@ -77,6 +77,7 @@ Fungsi utama yang ingin kita kembangkan yaitu membuat fitur baru berupa tombol j
 ### Aplikasi
 
 ## Saran
+Dengan pengembangan fitur yang ada diaplikasi IPB Mobile Apps ini diharapkan dapat mempermudah masyarakat IPB dalam menggunakan IPB Mobile Apps ini, khususnya dalam pencaharian link kelas online. Dengan aplikasi ini kami sebagai developer ingin agar kecurangan yang sering terjadi pada mahasiswa bisa terminimalisir. Maka dari itu kami menginginkan pula agar para dosen selalu memberikan dukungan berupa update link kelas online yang sesuai dengan jadwal dan tepat waktu agar fitur tambahan dari aplikasi IPB Mobile ini dapat berjalan dengan lancar.
 
 ## Developer
 <table>
