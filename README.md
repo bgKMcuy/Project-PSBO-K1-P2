@@ -47,6 +47,7 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
 ### Class Diagram
 
 ### ERD
+![image](https://user-images.githubusercontent.com/60084283/122160802-c3c9cd80-ce9a-11eb-9268-88c2ee0aad05.png)
 
 ### Arsitektur Sistem
 
